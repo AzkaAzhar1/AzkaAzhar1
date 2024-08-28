@@ -1,7 +1,7 @@
-## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Azka</h1>
-<h3 align="center">A passionate SQA Analyst</h3>
+
+<h1 align="left">Hi 👋, I'm Azka</h1>
+<h3 align="left">A passionate SQA Analyst</h3>
 
 - 🔭 I’m currently working at **Optimum Tech**
 
