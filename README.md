@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **SQA, Automation, Testing methodologies, Testing types**
 
-- 🌱 Currently learning: **Selenium with Java**
+- 🌱 Currently learning: **RestAssured-API Automation**
 
 - 💅 Expertise: **Software Testing, Automation tools, Software Quality Assurance**
 
