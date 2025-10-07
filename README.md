@@ -29,6 +29,6 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://testng.org" target="_blank" rel="noreferrer">
-    <img src="https://www.mailslurp.com/assets/brands/testng.png" alt="testng" width="40" height="40"/>
+    <img src="https://www.bugraptors.com/api/admin/serve-image/blogs/introduction-of-testng-framework-and-its-benefits-over-junit-framework-0v1yq-1000x700.webp" alt="testng" width="40" height="40"/>
   </a>
 </p>
